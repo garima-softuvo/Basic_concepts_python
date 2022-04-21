@@ -7,3 +7,5 @@
 # https://www.geeksforgeeks.org/python-accessing-index-and-value-in-list/
 
 # https://www.askpython.com/python/list/iterate-through-list-in-python
+
+# https://www.geeksforgeeks.org/python-assign-pair-elements-from-tuple-lists/
